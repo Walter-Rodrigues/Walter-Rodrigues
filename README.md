@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Sou formado em Educação Física pela PUC-GO;
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no SENAC - SP;
-- 🎓 Previsão de término do curso é 06/2024;
+- 🎓 Previsão de término do curso: 06/2024;
 - 🙏 Não atuo na área, estou a procura da primeira oportunidade!
 - 🧑‍💻 Tecnologias que estou estudando:
 
